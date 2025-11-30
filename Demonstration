@@ -1,0 +1,1 @@
+The program loads two input images, applies all GPU glitch effects, and saves the results in a folder named glitch_outputs. It also generates a comparison grid for each image, showing how every effect looks. The GPU performance summary shows how quickly each image was processed.
