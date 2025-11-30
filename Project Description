@@ -1,0 +1,1 @@
+This project creates GPU-based glitch art using CuPy. I applied six visual effects—row shifting, color swapping, noise, block shuffle, scan lines, and RGB offset—on two images (a human face and an apple). The entire processing runs on the GPU, making it very fast. I learned how image data can be manipulated directly on GPU memory.
